@@ -49,4 +49,4 @@ jobs:
           app-name: 'nanocredit'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0D0B45B89814BE6BBD25C53A952CB06 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2AA622CE0CA3458BBB14DA398BE0C62E }}
